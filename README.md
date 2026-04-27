@@ -1,4 +1,5 @@
 # Reaction Time Test
+A reaction time game where an LED lights up randomly and your response time is shown on a display.
 
 ## Components
 
@@ -38,6 +39,12 @@
 | OLED          | SDA           | GPIO 8                   |
 
 <img width="255" height="300" alt="IMG_6247-compressed" src="https://github.com/user-attachments/assets/0199f4e7-40f1-4032-ad71-e3575ae198c1" />
+
+## Demo
+<video width="300" height="400" controls>
+  <source src="https://github.com/user-attachments/assets/c5d4198e-18a8-4d83-8e16-41b55869ee2d" type="video/webm">
+Your browser does not support the video tag.
+</video>
 
 ## Future Updates
 * Multiplayer
