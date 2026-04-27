@@ -19,10 +19,10 @@
 
 ## Prerequisites
 
-*Arduino IDE
-*Libraries
-  *Adafruit SSD1306
-  *Adafruit GFX
+* Arduino IDE
+* Libraries
+  * Adafruit SSD1306
+  * Adafruit GFX
 
 ## Wiring
 
@@ -37,8 +37,8 @@
 | OLED          | SCL           | GPIO 9                   |
 | OLED          | SDA           | GPIO 8                   |
 
-<img width="500" height="300" alt="IMG_6247-compressed" src="https://github.com/user-attachments/assets/0199f4e7-40f1-4032-ad71-e3575ae198c1" />
+<img width="255" height="300" alt="IMG_6247-compressed" src="https://github.com/user-attachments/assets/0199f4e7-40f1-4032-ad71-e3575ae198c1" />
 
 ## Future Updates
-*Multiplayer
-  *Two buttons, each player has a button, and they have to see who has the better reaction time to click first.
+* Multiplayer
+  * Two buttons, each player has a button, and they have to see who has the better reaction time to click first.
