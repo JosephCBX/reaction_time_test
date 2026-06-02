@@ -44,5 +44,3 @@ A reaction time game where an LED lights up randomly and your response time is s
 [demo.webm](https://github.com/user-attachments/assets/6fa2b545-615e-40ed-a427-6b5981bf2f3d)
 
 ## Future Updates
-* Multiplayer
-  * Two buttons, each player has a button, and they have to see who has the better reaction time to click first.
